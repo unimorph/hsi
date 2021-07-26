@@ -1,5 +1,5 @@
 māy	māy	PRO;NOM;SG
-māy	mān	PRO;non{NOM/ACC};SG
+māy	mānā	PRO;non{NOM/ACC};SG
 māy	māke	PRO;ACC;SG
 māy	āse	PRO;NOM;PL
 attu	attu	PRO;NOM;SG
@@ -15,6 +15,7 @@ peter	peterās	N;NOM;PL;MASC
 šorko	šorko	N;NOM;SG;MASC
 šorko	šorkā	N;NOM;PL;MASC
 šurki	šurki	N;NOM;SG;FEM
+šurki	šurki	N;non{NOM};SG;FEM
 šurki	šurkiyu	N;NOM;PL;FEM
 šurki	šurkiyen	N;non{NOM};PL;FEM
 kozoro	kozoro	N;NOM;SG;MASC
@@ -36,6 +37,12 @@ gazzi	gazzi	N;NOM;SG;FEM
 gazzi	gazziyu	N;NOM;PL;FEM
 gohro	gohro	N;NOM;SG;MASC
 gohro	gohrā	N;NOM;PL;MASC
+gohro	gohroy	N;NOM;SG;PSS1S
+gohro	gohro	N;NOM;SG;PSS2S
+gohro	gohros	N;NOM;SG;PSS3S
+gohro	gohrom	N;NOM;SG;PSS1P
+gohro	gohrom	N;NOM;SG;PSS2P
+gohro	gohrān	N;NOM;SG;PSS3P
 āno	āno	N;NOM;SG
 āno	ānoyen	N;non{NOM};PL
 čuki	čuki	N;NOM;SG;FEM
@@ -45,6 +52,8 @@ tʰal	tʰal	N;NOM;SG
 tʰal	tʰallen	N;non{NOM};PL
 olu	olu	N;NOM;SG
 olu	oluyen	N;non{NOM};PL
+viyāv	viyāv	N;NOM;SG
+viyāv	viyāvkā	N;NOM;PL
 karen	karen	V;NFIN
 karen	kāy	V;IND;PST;PFV;1;SG
 karen	kov	V;IND;PST;PFV;2;SG
@@ -71,3 +80,7 @@ karen	karā	V;IND;PRES;IPFV;1;PL
 karen	kares	V;IND;PRES;IPFV;2;PL
 karen	karen	V;IND;PRES;IPFV;3;PL
 karen	keremay	V;IND;PRES;PROG
+xāyen	xāvāy	V;IND;PST;PFV;1;SG
+xāyen	xāyi	V;IND;PRES;IPFV;1;SG
+xāyen	xāndusu	V;IND;PST;IPFV;1;SG;MASC
+xāyen	xāmay	V;IND;PRES;PROG
