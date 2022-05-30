@@ -20,6 +20,20 @@ This repo contains the inflection tables for Kholosi (provisional code `hsi`, Wi
 ## Annotators
 Aryaman Arora (Georgetown University)
 
+----
+## References
+```
+@book{arora-2021-kholosi-dictionary,
+    title = "Kholosi Dictionary",
+    author = "Arora, Aryaman and
+        Etebari, Ahmed",
+    year={2021},
+    pdf={https://aryamanarora.github.io/kholosi/Kholosi_Dictionary.pdf},
+    doi={10.13140/RG.2.2.35551.79524},
+    labels={Kholosi}
+}
+```
+
 ## License
 * [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
